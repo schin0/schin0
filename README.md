@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello world!  🌎
+✍️ Me chamo Gabriel Hernandes Schincariol
+📅 Tenho 17 anos
+🌇 Nasci em Jundiaí /São Paulo
+ 🖥️ Estou iniciando no rumo da programação
+ 📌 Tenho interesse em: 
+ - 🖱️ "Codar"
+ - 🧮 Matemática
+ - 📖 Aprender
 
-<!--
-**schin0/schin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Conhecimentos em:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🏁 Html
+ - 🏁 Css
+ - 🏁 JavaScript
+ - 📁 Git / GitHub
