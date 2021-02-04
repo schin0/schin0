@@ -17,7 +17,5 @@
 
 ## Contato
 
-<a target="_blank">[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Schincariol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielschincariol/)](https://www.linkedin.com/in/gabrielschincariol/) </a>
-
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Schincariol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielschincariol/)](https://www.linkedin.com/in/gabrielschincariol/) 
 
