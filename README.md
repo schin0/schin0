@@ -19,3 +19,5 @@
 ## Contato
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Schincariol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielschincariol/)](https://www.linkedin.com/in/gabrielschincariol/) 
+[
+![Gmail Badge](https://img.shields.io/badge/-Gabriel_Schincariol-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gschin11@gmail.com)](mailto:gschin11@gmail.com)
