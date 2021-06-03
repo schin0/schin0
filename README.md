@@ -14,6 +14,7 @@
  - 🏁 Html
  - 🏁 Css
  - 🏁 JavaScript
+ - 🏁 Java
  - 📁 Git / GitHub
 
 ## Contatos
