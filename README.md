@@ -1,7 +1,7 @@
 # Hello world!  🌎
 
  - [ ] ✍️ Me chamo Gabriel Hernandes Schincariol 
- - [ ] 📅 Tenho 17 anos 
+ - [ ] 📅 Tenho 18 anos 
  - [ ] 🌇 Nasci em Jundiaí / São Paulo 
  - [ ] 🖥️ Estou iniciando no rumo da programação 
  - [ ] 📌 Tenho interesse em:
@@ -11,9 +11,9 @@
 
 ## Conhecimentos em:
 
- - 🏁 Html
- - 🏁 Css
  - 🏁 JavaScript
+ - 🏁 Angular
+ - 🏁 C#
  - 🏁 Java
  - 📁 Git / GitHub
 
