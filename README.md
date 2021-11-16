@@ -17,6 +17,9 @@
  - 🏁 Java
  - 📁 Git / GitHub
 
+<a href="https://github.com/schin0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=schin0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 ## Contatos
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Schincariol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielschincariol/)](https://www.linkedin.com/in/gabrielschincariol/) 
