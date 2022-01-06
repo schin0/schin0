@@ -11,7 +11,7 @@
 
 ## Conhecimentos em:
 
- - 🏁 JavaScript
+ - 🏁 JavaScript / Typescript
  - 🏁 Angular
  - 🏁 C#
  - 🏁 Java
