@@ -1,7 +1,6 @@
 # Hello world!  🌎
 
- - [ ] ✍️ Me chamo Gabriel Hernandes Schincariol 
- - [ ] 📅 Tenho 19 anos 
+ - [ ] ✍️ Me chamo Gabriel Hernandes Schincariol  
  - [ ] 🌇 De Jundiaí / São Paulo 
 
 
