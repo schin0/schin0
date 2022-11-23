@@ -9,9 +9,9 @@
  - 🧮 Matemática
  - 📖 Aprender
 
-<a href="https://github.com/schin0">
-  [<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schin0&layout=compact&langs_count=7&theme=dracula"/>](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=schin0&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only)
-</div>
+
+
+<img height=200 src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=schin0&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only)" alt="Linguagens Gabriel Schin" />
 
 ## Contatos
 
