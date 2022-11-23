@@ -2,17 +2,12 @@
 
  - [ ] ✍️ Me chamo Gabriel Hernandes Schincariol 
  - [ ] 📅 Tenho 19 anos 
- - [ ] 🌇 Nasci em Jundiaí / São Paulo 
- - [ ] 🖥️ Estou iniciando no rumo da programação 
- - [ ] 📌 Tenho interesse em:
- - 🖱️ "Codar"
- - 🧮 Matemática
- - 📖 Aprender
+ - [ ] 🌇 De Jundiaí / São Paulo 
 
 
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=schin0&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only)" alt="Linguagens Schin" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=schin0&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Linguagens Schin" />
 </a>
 </div>
 
