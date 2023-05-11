@@ -3,6 +3,7 @@
  - ✍️ Me chamo Gabriel Hernandes Schincariol  
  - 🖥️Desenvolvedor FullStack
  - 🌇 De Jundiaí / São Paulo 
+ - 📚 Sistemas de Informação - FIAP
 
 ### Tenho conhecimentos nos assuntos:
 
@@ -33,8 +34,6 @@
 
 ### Licenças e certificados:
 Clique [aqui](https://www.linkedin.com/in/gabrielschincariol/details/certifications/) para visualizar
-
-<br/>
 
 ## Contatos
 
