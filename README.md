@@ -11,9 +11,6 @@ Sou um desenvolvedor focado em criar soluções inovadoras para desafios complex
 - Conhecimento em ferramentas de versionamento como GIT e metodologias ágeis como SCRUM/KANBAN 🔄📊.
 <br>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <br>
 
 <div align="center">
