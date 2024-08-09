@@ -11,6 +11,11 @@ Sou um desenvolvedor focado em criar soluções inovadoras para desafios complex
 - Conhecimento em ferramentas de versionamento como GIT e metodologias ágeis como SCRUM/KANBAN 🔄📊.
 <br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/gabrielschincariol/">
     <img src="https://img.shields.io/badge/-Gabriel%20Schincariol-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
